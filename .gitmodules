@@ -4,3 +4,6 @@
 [submodule "programming/languages/100-days-go"]
 	path = programming/languages/100-days-go
 	url = https://github.com/abaj8494/100-days-go
+[submodule "programming/languages/100-days-js"]
+	path = programming/languages/100-days-js
+	url = https://github.com/abaj8494/100-days-js
