@@ -1,9 +1,9 @@
 [submodule "programming/languages/100-days-python"]
 	path = programming/languages/100-days-python
-	url = https://github.com/abaj8494/100-days-python
+	url = git@github.com:abaj8494/100-days-python.git
 [submodule "programming/languages/100-days-go"]
 	path = programming/languages/100-days-go
-	url = https://github.com/abaj8494/100-days-go
+	url = git@github.com:abaj8494/100-days-go.git
 [submodule "programming/languages/100-days-js"]
 	path = programming/languages/100-days-js
-	url = https://github.com/abaj8494/100-days-js
+	url = git@github.com:abaj8494/100-days-js.git
